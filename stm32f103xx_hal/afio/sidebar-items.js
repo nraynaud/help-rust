@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EVCR",""],["EXTICR1",""],["EXTICR2",""],["EXTICR3",""],["EXTICR4",""],["MAPR",""],["MAPR2",""],["Parts",""]],"trait":[["AfioExt",""]]});

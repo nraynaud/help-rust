@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","SPI error"],["Phase","Clock phase"],["Polarity","Clock polarity"]],"struct":[["DmaSpi",""],["Mode","SPI mode"],["Spi",""]],"trait":[["Pins",""],["SpiDmaChannels",""]]});

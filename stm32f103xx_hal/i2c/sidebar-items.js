@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["DutyCycle",""],["Error","I2C error"],["Mode",""]],"fn":[["blocking_i2c",""]],"struct":[["BlockingI2c",""],["I2c","I2C peripheral operating in master mode"]],"trait":[["Pins",""]]});

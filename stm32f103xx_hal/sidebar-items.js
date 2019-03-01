@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["afio",""],["bb","Bit banding"],["delay","Delays"],["dma",""],["flash","Flash memory"],["gpio","General Purpose Input / Output"],["i2c","Inter-Integrated Circuit (I2C) bus"],["prelude",""],["pwm",""],["pwm2",""],["qei",""],["rcc",""],["serial",""],["spi",""],["time","Time units"],["timer",""]]});
